@@ -1,0 +1,8 @@
+Estas son las instrucciones para arrancar el back del pryecto.
+Para facilitar el uso de este recomiendo Intellij IDEA como IDE.
+1.- clonar el reposito a tu carpeta preferida.
+2.- importar a tu gestor de base de datos MySQL el archivo .sql que se encuentra en el repositorio
+3.- en el archivo "application.properties" ubicado en "src > main > resources" en la primera linea
+	encontraras la liga a la base de datos cambia la URL a la que uses para conectarte a la BD
+4.- abrir la carpeta con Intellij IDEA e importar todas las dependencias con Maven.
+5.- correr el programa
